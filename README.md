@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou Adriel Gonçalves!
 
-<!--
-**adrielcgoncalves-lgtm/adrielcgoncalves-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+🚀 Apaixonado por tecnologia, programação e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mim
+
+- 💡 Explorando novas tecnologias
+- 📚 Sempre aprendendo e evoluindo
+- 🎯 Focado em desenvolver projetos e adquirir experiência
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://github.com/adrielcgoncalves-lgtm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielcgoncalves-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielcgoncalves-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+</p>
+
+---
+
+<p align="center">
+  ✨ <strong>“Sempre evoluindo, sempre aprendendo.”</strong> ✨
+</p>
